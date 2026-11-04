@@ -1,0 +1,10 @@
+{
+  "name": "code-buster-deck",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Science Olympiad 2026-27 Division B Codebusters cipher presentation (static site)",
+  "scripts": {
+    "test": "node --test test/ciphers.test.js test/slides.test.js test/sheet.test.js",
+    "start": "python3 -m http.server 3000"
+  }
+}
