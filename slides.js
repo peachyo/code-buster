@@ -215,7 +215,7 @@
               'Three-letter words: THE AND FOR ARE BUT NOT YOU ALL HIS HAD HAS FEW',
               'Common digraphs: TH HE IN ER AN RE ND AT ON NT',
               'Common trigrams: THE AND THA ENT ING ION TIO FOR <strong>GHT</strong>',
-              'Apostrophe patterns: <strong>can\'t, didn\'t, hasn\'t, doesn\'t, aren\'t, I\'m, we\'re, they\'ve</strong> (also <strong>n\'t, \'s, \'re, \'ve, \'ll</strong>)',
+              'Apostrophe patterns: <strong>can\'t, didn\'t, hasn\'t, doesn\'t, aren\'t, I\'m, he\'ll,we\'re, they\'ve</strong> (also <strong>n\'t, \'s, \'re, \'ve, \'ll</strong>)',
               'Common double letters: LL EE SS OO TT FF RR NN PP CC',
             ])
           )
